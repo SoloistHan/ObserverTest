@@ -1,0 +1,6 @@
+
+*.exe
+
+ObserverTest/obj/
+
+ObserverTest/bin/Debug/netcoreapp3.1/
